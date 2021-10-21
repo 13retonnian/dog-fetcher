@@ -1,12 +1,19 @@
+html {
+  background-color: black;
+}
 button {
   display: block;
-  margin: 0 auto;
+  margin: 0 auto 10px auto;
   width: 200px;
   height: 50px;
   font-size: 30px;
+  background-color: orangered; 
+  border-radius: 3rem;
 }
 img {
   display: block;
   margin: 0 auto;
-  height: 100vh;
+  height: 92vh; 
+  color: white; 
+  text-align: center;
 }
